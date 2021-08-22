@@ -1,0 +1,1276 @@
+<DOCID>APW19980227.0494</DOCID>
+0	e37	['dispute']	1	e41	['signed']	0	4
+14	e62	['create']	43	e112	['said']	4	4
+17	e66	['join']	33	e93	['under', '##mini', '##ng']	4	4
+17	e66	['join']	32	e92	['claimed']	4	4
+17	e66	['join']	35	e158	['signing']	4	4
+17	e66	['join']	24	e77	['consult']	0	4
+17	e66	['join']	28	e86	['said']	4	4
+17	e66	['join']	27	e84	['exercises']	4	4
+17	e66	['join']	34	e98	['visit']	4	4
+17	e66	['join']	26	e83	['holding']	4	4
+17	e66	['join']	36	e99	['aimed']	4	4
+17	e66	['join']	29	e87	['remain']	0	4
+17	e66	['join']	37	e101	['doubling']	0	4
+17	e66	['join']	21	e72	['expansion']	0	4
+17	e66	['join']	38	e102	['fell']	4	4
+17	e66	['join']	25	e82	['ass', '##ailed']	4	4
+17	e66	['join']	39	e105	['signed']	4	4
+17	e66	['join']	30	e89	['called']	4	4
+17	e66	['join']	40	e106	['calls']	4	4
+17	e66	['join']	22	e74	['released']	4	4
+17	e66	['join']	31	e90	['developing']	0	4
+17	e66	['join']	41	e107	['cooperation']	0	4
+17	e66	['join']	42	e111	['manufacturing']	0	4
+16	e65	['assured']	45	e114	['coordination']	2	2
+17	e66	['join']	43	e112	['said']	4	4
+17	e66	['join']	44	e113	['calls']	4	4
+17	e66	['join']	45	e114	['coordination']	0	4
+17	e66	['join']	23	e75	['pledged']	4	4
+17	e66	['join']	47	e118	['imp', '##over', '##ished']	4	4
+17	e66	['join']	46	e116	['improvement']	0	4
+17	e66	['join']	19	e156	['according']	4	4
+17	e66	['join']	48	e119	['transition']	4	4
+17	e66	['join']	49	e121	['planned']	4	4
+16	e65	['assured']	38	e102	['fell']	4	4
+16	e65	['assured']	49	e121	['planned']	5	5
+17	e66	['join']	50	e123	['visit']	0	4
+17	e66	['join']	18	e69	['said']	0	4
+18	e69	['said']	19	e156	['according']	0	5
+17	e66	['join']	20	e71	['opposed']	0	4
+18	e69	['said']	21	e72	['expansion']	0	2
+18	e69	['said']	22	e74	['released']	5	5
+18	e69	['said']	23	e75	['pledged']	5	5
+16	e65	['assured']	42	e111	['manufacturing']	2	2
+18	e69	['said']	24	e77	['consult']	1	2
+18	e69	['said']	25	e82	['ass', '##ailed']	4	5
+16	e65	['assured']	37	e101	['doubling']	2	1
+16	e65	['assured']	47	e118	['imp', '##over', '##ished']	4	4
+18	e69	['said']	27	e84	['exercises']	4	2
+16	e65	['assured']	50	e123	['visit']	1	1
+16	e65	['assured']	39	e105	['signed']	5	4
+16	e65	['assured']	21	e72	['expansion']	0	2
+16	e65	['assured']	44	e113	['calls']	5	4
+16	e65	['assured']	46	e116	['improvement']	2	2
+18	e69	['said']	28	e86	['said']	5	5
+16	e65	['assured']	43	e112	['said']	5	5
+15	e64	['help']	47	e118	['imp', '##over', '##ished']	4	4
+16	e65	['assured']	18	e69	['said']	5	5
+16	e65	['assured']	19	e156	['according']	0	5
+16	e65	['assured']	48	e119	['transition']	4	2
+15	e64	['help']	48	e119	['transition']	4	4
+15	e64	['help']	50	e123	['visit']	0	3
+16	e65	['assured']	22	e74	['released']	5	5
+15	e64	['help']	43	e112	['said']	4	4
+18	e69	['said']	29	e87	['remain']	2	1
+15	e64	['help']	46	e116	['improvement']	0	4
+16	e65	['assured']	17	e66	['join']	0	1
+16	e65	['assured']	41	e107	['cooperation']	2	2
+18	e69	['said']	30	e89	['called']	5	5
+16	e65	['assured']	23	e75	['pledged']	5	5
+16	e65	['assured']	25	e82	['ass', '##ailed']	4	5
+15	e64	['help']	49	e121	['planned']	4	4
+15	e64	['help']	38	e102	['fell']	4	4
+16	e65	['assured']	27	e84	['exercises']	4	2
+15	e64	['help']	42	e111	['manufacturing']	0	4
+18	e69	['said']	32	e92	['claimed']	4	5
+16	e65	['assured']	24	e77	['consult']	1	2
+16	e65	['assured']	28	e86	['said']	5	5
+16	e65	['assured']	30	e89	['called']	5	5
+16	e65	['assured']	26	e83	['holding']	4	2
+18	e69	['said']	26	e83	['holding']	4	2
+15	e64	['help']	44	e113	['calls']	4	4
+16	e65	['assured']	29	e87	['remain']	2	1
+16	e65	['assured']	40	e106	['calls']	5	4
+16	e65	['assured']	32	e92	['claimed']	4	5
+18	e69	['said']	31	e90	['developing']	1	1
+15	e64	['help']	45	e114	['coordination']	0	4
+18	e69	['said']	33	e93	['under', '##mini', '##ng']	4	2
+16	e65	['assured']	33	e93	['under', '##mini', '##ng']	4	2
+16	e65	['assured']	36	e99	['aimed']	5	4
+18	e69	['said']	35	e158	['signing']	5	4
+18	e69	['said']	36	e99	['aimed']	5	4
+16	e65	['assured']	34	e98	['visit']	2	5
+15	e64	['help']	41	e107	['cooperation']	0	4
+19	e156	['according']	38	e102	['fell']	4	4
+19	e156	['according']	44	e113	['calls']	5	4
+19	e156	['according']	33	e93	['under', '##mini', '##ng']	4	2
+18	e69	['said']	34	e98	['visit']	2	5
+19	e156	['according']	45	e114	['coordination']	2	2
+18	e69	['said']	37	e101	['doubling']	2	1
+18	e69	['said']	38	e102	['fell']	4	4
+19	e156	['according']	46	e116	['improvement']	2	2
+18	e69	['said']	20	e71	['opposed']	2	2
+16	e65	['assured']	31	e90	['developing']	1	1
+19	e156	['according']	47	e118	['imp', '##over', '##ished']	4	4
+19	e156	['according']	41	e107	['cooperation']	2	2
+20	e71	['opposed']	24	e77	['consult']	0	1
+19	e156	['according']	42	e111	['manufacturing']	2	2
+20	e71	['opposed']	26	e83	['holding']	0	1
+15	e64	['help']	39	e105	['signed']	4	4
+18	e69	['said']	39	e105	['signed']	5	4
+18	e69	['said']	40	e106	['calls']	5	4
+18	e69	['said']	43	e112	['said']	5	5
+19	e156	['according']	39	e105	['signed']	5	4
+19	e156	['according']	43	e112	['said']	5	5
+18	e69	['said']	42	e111	['manufacturing']	2	2
+20	e71	['opposed']	29	e87	['remain']	0	1
+20	e71	['opposed']	31	e90	['developing']	0	1
+20	e71	['opposed']	35	e158	['signing']	3	1
+15	e64	['help']	37	e101	['doubling']	0	3
+19	e156	['according']	36	e99	['aimed']	5	4
+18	e69	['said']	41	e107	['cooperation']	2	2
+19	e156	['according']	49	e121	['planned']	5	5
+19	e156	['according']	40	e106	['calls']	5	4
+20	e71	['opposed']	38	e102	['fell']	0	4
+19	e156	['according']	50	e123	['visit']	1	1
+18	e69	['said']	44	e113	['calls']	5	4
+20	e71	['opposed']	37	e101	['doubling']	0	1
+20	e71	['opposed']	23	e75	['pledged']	3	3
+18	e69	['said']	45	e114	['coordination']	2	2
+19	e156	['according']	48	e119	['transition']	4	2
+20	e71	['opposed']	47	e118	['imp', '##over', '##ished']	0	4
+20	e71	['opposed']	50	e123	['visit']	0	1
+20	e71	['opposed']	30	e89	['called']	3	3
+21	e72	['expansion']	22	e74	['released']	3	3
+20	e71	['opposed']	39	e105	['signed']	3	4
+21	e72	['expansion']	23	e75	['pledged']	3	3
+18	e69	['said']	47	e118	['imp', '##over', '##ished']	4	4
+21	e72	['expansion']	24	e77	['consult']	0	3
+18	e69	['said']	49	e121	['planned']	5	5
+20	e71	['opposed']	27	e84	['exercises']	0	2
+20	e71	['opposed']	36	e99	['aimed']	3	4
+21	e72	['expansion']	25	e82	['ass', '##ailed']	0	3
+21	e72	['expansion']	26	e83	['holding']	0	3
+21	e72	['expansion']	27	e84	['exercises']	0	3
+15	e64	['help']	40	e106	['calls']	4	4
+20	e71	['opposed']	32	e92	['claimed']	0	3
+18	e69	['said']	46	e116	['improvement']	2	2
+19	e156	['according']	37	e101	['doubling']	2	1
+20	e71	['opposed']	41	e107	['cooperation']	0	2
+19	e156	['according']	21	e72	['expansion']	0	2
+18	e69	['said']	48	e119	['transition']	4	2
+21	e72	['expansion']	28	e86	['said']	3	3
+18	e69	['said']	50	e123	['visit']	1	1
+21	e72	['expansion']	29	e87	['remain']	0	3
+20	e71	['opposed']	48	e119	['transition']	0	1
+20	e71	['opposed']	44	e113	['calls']	3	3
+21	e72	['expansion']	30	e89	['called']	3	3
+15	e64	['help']	34	e98	['visit']	4	4
+20	e71	['opposed']	33	e93	['under', '##mini', '##ng']	0	2
+21	e72	['expansion']	31	e90	['developing']	0	3
+15	e64	['help']	33	e93	['under', '##mini', '##ng']	4	4
+20	e71	['opposed']	40	e106	['calls']	3	3
+21	e72	['expansion']	32	e92	['claimed']	0	3
+21	e72	['expansion']	33	e93	['under', '##mini', '##ng']	0	3
+21	e72	['expansion']	34	e98	['visit']	0	3
+20	e71	['opposed']	22	e74	['released']	0	3
+19	e156	['according']	20	e71	['opposed']	2	2
+16	e65	['assured']	20	e71	['opposed']	2	2
+20	e71	['opposed']	43	e112	['said']	3	3
+16	e65	['assured']	35	e158	['signing']	5	4
+15	e64	['help']	35	e158	['signing']	4	4
+21	e72	['expansion']	37	e101	['doubling']	0	3
+20	e71	['opposed']	21	e72	['expansion']	0	2
+21	e72	['expansion']	35	e158	['signing']	3	3
+19	e156	['according']	34	e98	['visit']	2	5
+21	e72	['expansion']	39	e105	['signed']	3	4
+19	e156	['according']	32	e92	['claimed']	4	5
+21	e72	['expansion']	38	e102	['fell']	0	4
+21	e72	['expansion']	43	e112	['said']	3	3
+22	e74	['released']	23	e75	['pledged']	0	5
+19	e156	['according']	22	e74	['released']	5	5
+21	e72	['expansion']	50	e123	['visit']	0	3
+21	e72	['expansion']	42	e111	['manufacturing']	0	3
+20	e71	['opposed']	34	e98	['visit']	0	3
+21	e72	['expansion']	40	e106	['calls']	3	3
+21	e72	['expansion']	36	e99	['aimed']	3	4
+21	e72	['expansion']	44	e113	['calls']	3	3
+21	e72	['expansion']	47	e118	['imp', '##over', '##ished']	0	4
+19	e156	['according']	35	e158	['signing']	5	4
+22	e74	['released']	25	e82	['ass', '##ailed']	0	5
+21	e72	['expansion']	49	e121	['planned']	3	3
+19	e156	['according']	23	e75	['pledged']	5	5
+19	e156	['according']	24	e77	['consult']	1	2
+19	e156	['according']	25	e82	['ass', '##ailed']	4	5
+21	e72	['expansion']	45	e114	['coordination']	0	3
+19	e156	['according']	30	e89	['called']	5	5
+19	e156	['according']	29	e87	['remain']	2	1
+22	e74	['released']	28	e86	['said']	5	5
+14	e62	['create']	47	e118	['imp', '##over', '##ished']	4	4
+19	e156	['according']	26	e83	['holding']	4	2
+21	e72	['expansion']	41	e107	['cooperation']	0	3
+19	e156	['according']	27	e84	['exercises']	4	2
+22	e74	['released']	27	e84	['exercises']	0	2
+19	e156	['according']	28	e86	['said']	5	5
+12	e59	['rat', '##ification']	33	e93	['under', '##mini', '##ng']	4	4
+12	e59	['rat', '##ification']	37	e101	['doubling']	0	4
+22	e74	['released']	29	e87	['remain']	2	1
+12	e59	['rat', '##ification']	31	e90	['developing']	0	4
+20	e71	['opposed']	25	e82	['ass', '##ailed']	0	3
+12	e59	['rat', '##ification']	34	e98	['visit']	4	4
+21	e72	['expansion']	48	e119	['transition']	0	3
+12	e59	['rat', '##ification']	30	e89	['called']	4	4
+20	e71	['opposed']	28	e86	['said']	3	3
+12	e59	['rat', '##ification']	35	e158	['signing']	4	4
+20	e71	['opposed']	46	e116	['improvement']	0	3
+22	e74	['released']	24	e77	['consult']	1	2
+22	e74	['released']	30	e89	['called']	5	5
+21	e72	['expansion']	46	e116	['improvement']	0	3
+12	e59	['rat', '##ification']	44	e113	['calls']	4	4
+15	e64	['help']	36	e99	['aimed']	4	4
+12	e59	['rat', '##ification']	36	e99	['aimed']	4	4
+12	e59	['rat', '##ification']	32	e92	['claimed']	4	4
+12	e59	['rat', '##ification']	42	e111	['manufacturing']	0	4
+12	e59	['rat', '##ification']	47	e118	['imp', '##over', '##ished']	4	4
+12	e59	['rat', '##ification']	48	e119	['transition']	4	4
+22	e74	['released']	31	e90	['developing']	1	1
+12	e59	['rat', '##ification']	38	e102	['fell']	4	4
+12	e59	['rat', '##ification']	39	e105	['signed']	4	4
+12	e59	['rat', '##ification']	40	e106	['calls']	4	4
+22	e74	['released']	32	e92	['claimed']	4	5
+12	e59	['rat', '##ification']	29	e87	['remain']	0	4
+12	e59	['rat', '##ification']	41	e107	['cooperation']	0	4
+12	e59	['rat', '##ification']	24	e77	['consult']	0	4
+12	e59	['rat', '##ification']	28	e86	['said']	4	4
+12	e59	['rat', '##ification']	43	e112	['said']	4	4
+12	e59	['rat', '##ification']	45	e114	['coordination']	0	4
+12	e59	['rat', '##ification']	46	e116	['improvement']	0	4
+22	e74	['released']	33	e93	['under', '##mini', '##ng']	4	2
+22	e74	['released']	36	e99	['aimed']	5	4
+12	e59	['rat', '##ification']	49	e121	['planned']	4	4
+14	e62	['create']	48	e119	['transition']	4	4
+12	e59	['rat', '##ification']	50	e123	['visit']	0	4
+13	e61	['saying']	14	e62	['create']	1	1
+22	e74	['released']	37	e101	['doubling']	2	1
+13	e61	['saying']	16	e65	['assured']	5	5
+13	e61	['saying']	17	e66	['join']	0	1
+22	e74	['released']	34	e98	['visit']	2	5
+13	e61	['saying']	15	e64	['help']	0	2
+13	e61	['saying']	18	e69	['said']	5	5
+22	e74	['released']	38	e102	['fell']	4	4
+13	e61	['saying']	21	e72	['expansion']	2	2
+13	e61	['saying']	19	e156	['according']	0	5
+12	e59	['rat', '##ification']	27	e84	['exercises']	4	4
+13	e61	['saying']	22	e74	['released']	5	5
+13	e61	['saying']	23	e75	['pledged']	5	5
+13	e61	['saying']	25	e82	['ass', '##ailed']	4	5
+22	e74	['released']	39	e105	['signed']	5	4
+13	e61	['saying']	24	e77	['consult']	1	2
+13	e61	['saying']	27	e84	['exercises']	4	2
+13	e61	['saying']	28	e86	['said']	5	5
+22	e74	['released']	26	e83	['holding']	4	2
+20	e71	['opposed']	42	e111	['manufacturing']	0	3
+22	e74	['released']	40	e106	['calls']	5	4
+19	e156	['according']	31	e90	['developing']	1	1
+13	e61	['saying']	20	e71	['opposed']	2	2
+13	e61	['saying']	30	e89	['called']	5	5
+13	e61	['saying']	29	e87	['remain']	2	1
+13	e61	['saying']	32	e92	['claimed']	4	5
+13	e61	['saying']	33	e93	['under', '##mini', '##ng']	4	2
+13	e61	['saying']	34	e98	['visit']	2	5
+11	e58	['called']	32	e92	['claimed']	4	5
+11	e58	['called']	39	e105	['signed']	5	4
+13	e61	['saying']	36	e99	['aimed']	5	4
+13	e61	['saying']	26	e83	['holding']	4	2
+12	e59	['rat', '##ification']	26	e83	['holding']	4	4
+13	e61	['saying']	37	e101	['doubling']	2	1
+13	e61	['saying']	31	e90	['developing']	1	1
+11	e58	['called']	33	e93	['under', '##mini', '##ng']	4	2
+11	e58	['called']	34	e98	['visit']	2	5
+12	e59	['rat', '##ification']	25	e82	['ass', '##ailed']	4	4
+12	e59	['rat', '##ification']	23	e75	['pledged']	4	4
+13	e61	['saying']	38	e102	['fell']	4	4
+13	e61	['saying']	39	e105	['signed']	5	4
+13	e61	['saying']	40	e106	['calls']	5	4
+13	e61	['saying']	41	e107	['cooperation']	2	2
+11	e58	['called']	41	e107	['cooperation']	2	2
+15	e64	['help']	31	e90	['developing']	0	3
+11	e58	['called']	38	e102	['fell']	4	4
+11	e58	['called']	43	e112	['said']	5	5
+15	e64	['help']	32	e92	['claimed']	4	4
+11	e58	['called']	44	e113	['calls']	5	4
+11	e58	['called']	40	e106	['calls']	5	4
+13	e61	['saying']	42	e111	['manufacturing']	2	2
+11	e58	['called']	27	e84	['exercises']	4	2
+11	e58	['called']	45	e114	['coordination']	2	2
+11	e58	['called']	47	e118	['imp', '##over', '##ished']	4	4
+11	e58	['called']	42	e111	['manufacturing']	2	2
+12	e59	['rat', '##ification']	13	e61	['saying']	4	4
+11	e58	['called']	49	e121	['planned']	5	5
+11	e58	['called']	46	e116	['improvement']	2	2
+11	e58	['called']	29	e87	['remain']	2	1
+11	e58	['called']	50	e123	['visit']	1	1
+13	e61	['saying']	43	e112	['said']	5	5
+20	e71	['opposed']	49	e121	['planned']	3	3
+13	e61	['saying']	44	e113	['calls']	5	4
+11	e58	['called']	25	e82	['ass', '##ailed']	4	5
+11	e58	['called']	36	e99	['aimed']	5	4
+11	e58	['called']	37	e101	['doubling']	2	1
+12	e59	['rat', '##ification']	15	e64	['help']	0	4
+12	e59	['rat', '##ification']	14	e62	['create']	0	4
+11	e58	['called']	28	e86	['said']	5	5
+12	e59	['rat', '##ification']	16	e65	['assured']	0	4
+12	e59	['rat', '##ification']	17	e66	['join']	0	4
+12	e59	['rat', '##ification']	18	e69	['said']	0	4
+11	e58	['called']	48	e119	['transition']	4	2
+11	e58	['called']	24	e77	['consult']	1	2
+13	e61	['saying']	45	e114	['coordination']	2	2
+22	e74	['released']	41	e107	['cooperation']	2	2
+12	e59	['rat', '##ification']	19	e156	['according']	4	4
+12	e59	['rat', '##ification']	20	e71	['opposed']	0	4
+13	e61	['saying']	35	e158	['signing']	5	4
+12	e59	['rat', '##ification']	21	e72	['expansion']	0	4
+11	e58	['called']	31	e90	['developing']	1	1
+12	e59	['rat', '##ification']	22	e74	['released']	4	4
+14	e62	['create']	45	e114	['coordination']	0	4
+11	e58	['called']	22	e74	['released']	5	5
+14	e62	['create']	42	e111	['manufacturing']	0	4
+13	e61	['saying']	49	e121	['planned']	5	5
+11	e58	['called']	30	e89	['called']	5	5
+22	e74	['released']	35	e158	['signing']	5	4
+14	e62	['create']	40	e106	['calls']	4	4
+13	e61	['saying']	50	e123	['visit']	1	1
+15	e64	['help']	28	e86	['said']	4	4
+14	e62	['create']	29	e87	['remain']	0	4
+13	e61	['saying']	47	e118	['imp', '##over', '##ished']	4	4
+14	e62	['create']	15	e64	['help']	0	4
+14	e62	['create']	41	e107	['cooperation']	0	4
+20	e71	['opposed']	45	e114	['coordination']	0	2
+14	e62	['create']	17	e66	['join']	0	4
+14	e62	['create']	36	e99	['aimed']	4	4
+14	e62	['create']	34	e98	['visit']	4	4
+14	e62	['create']	38	e102	['fell']	4	4
+14	e62	['create']	50	e123	['visit']	0	4
+11	e58	['called']	23	e75	['pledged']	5	5
+14	e62	['create']	37	e101	['doubling']	0	4
+14	e62	['create']	44	e113	['calls']	4	4
+14	e62	['create']	49	e121	['planned']	4	4
+14	e62	['create']	46	e116	['improvement']	0	4
+15	e64	['help']	20	e71	['opposed']	0	4
+15	e64	['help']	23	e75	['pledged']	4	4
+22	e74	['released']	43	e112	['said']	5	5
+22	e74	['released']	42	e111	['manufacturing']	2	2
+14	e62	['create']	16	e65	['assured']	0	4
+15	e64	['help']	16	e65	['assured']	0	3
+15	e64	['help']	22	e74	['released']	4	4
+15	e64	['help']	25	e82	['ass', '##ailed']	4	4
+15	e64	['help']	30	e89	['called']	4	4
+15	e64	['help']	26	e83	['holding']	4	4
+48	e119	['transition']	50	e123	['visit']	0	1
+14	e62	['create']	39	e105	['signed']	4	4
+14	e62	['create']	18	e69	['said']	4	4
+11	e58	['called']	12	e59	['rat', '##ification']	1	1
+13	e61	['saying']	48	e119	['transition']	4	2
+14	e62	['create']	19	e156	['according']	4	4
+14	e62	['create']	20	e71	['opposed']	0	4
+14	e62	['create']	21	e72	['expansion']	0	4
+14	e62	['create']	22	e74	['released']	4	4
+14	e62	['create']	35	e158	['signing']	4	4
+14	e62	['create']	23	e75	['pledged']	4	4
+22	e74	['released']	44	e113	['calls']	5	4
+15	e64	['help']	18	e69	['said']	4	3
+14	e62	['create']	24	e77	['consult']	0	4
+15	e64	['help']	21	e72	['expansion']	0	3
+14	e62	['create']	25	e82	['ass', '##ailed']	4	4
+15	e64	['help']	27	e84	['exercises']	4	3
+14	e62	['create']	33	e93	['under', '##mini', '##ng']	4	4
+14	e62	['create']	26	e83	['holding']	4	4
+15	e64	['help']	17	e66	['join']	0	3
+15	e64	['help']	19	e156	['according']	0	3
+22	e74	['released']	45	e114	['coordination']	2	2
+13	e61	['saying']	46	e116	['improvement']	2	2
+14	e62	['create']	27	e84	['exercises']	4	4
+14	e62	['create']	28	e86	['said']	4	4
+14	e62	['create']	30	e89	['called']	4	4
+11	e58	['called']	18	e69	['said']	0	5
+14	e62	['create']	31	e90	['developing']	0	4
+14	e62	['create']	32	e92	['claimed']	4	4
+32	e92	['claimed']	47	e118	['imp', '##over', '##ished']	0	4
+31	e90	['developing']	50	e123	['visit']	0	4
+32	e92	['claimed']	50	e123	['visit']	1	1
+32	e92	['claimed']	43	e112	['said']	1	5
+32	e92	['claimed']	40	e106	['calls']	1	4
+32	e92	['claimed']	46	e116	['improvement']	1	2
+33	e93	['under', '##mini', '##ng']	37	e101	['doubling']	0	1
+32	e92	['claimed']	44	e113	['calls']	1	4
+33	e93	['under', '##mini', '##ng']	38	e102	['fell']	0	4
+33	e93	['under', '##mini', '##ng']	34	e98	['visit']	0	3
+32	e92	['claimed']	42	e111	['manufacturing']	1	2
+33	e93	['under', '##mini', '##ng']	40	e106	['calls']	1	3
+32	e92	['claimed']	36	e99	['aimed']	1	4
+32	e92	['claimed']	38	e102	['fell']	0	4
+15	e64	['help']	24	e77	['consult']	0	3
+32	e92	['claimed']	33	e93	['under', '##mini', '##ng']	0	2
+32	e92	['claimed']	34	e98	['visit']	0	5
+33	e93	['under', '##mini', '##ng']	35	e158	['signing']	1	3
+32	e92	['claimed']	41	e107	['cooperation']	1	2
+33	e93	['under', '##mini', '##ng']	39	e105	['signed']	1	4
+33	e93	['under', '##mini', '##ng']	42	e111	['manufacturing']	1	3
+31	e90	['developing']	49	e121	['planned']	4	4
+33	e93	['under', '##mini', '##ng']	43	e112	['said']	1	3
+33	e93	['under', '##mini', '##ng']	44	e113	['calls']	1	3
+32	e92	['claimed']	45	e114	['coordination']	1	2
+34	e98	['visit']	36	e99	['aimed']	0	4
+33	e93	['under', '##mini', '##ng']	36	e99	['aimed']	0	4
+32	e92	['claimed']	37	e101	['doubling']	0	1
+33	e93	['under', '##mini', '##ng']	41	e107	['cooperation']	1	3
+32	e92	['claimed']	39	e105	['signed']	1	4
+33	e93	['under', '##mini', '##ng']	49	e121	['planned']	1	3
+32	e92	['claimed']	49	e121	['planned']	1	5
+11	e58	['called']	19	e156	['according']	0	5
+32	e92	['claimed']	48	e119	['transition']	0	2
+34	e98	['visit']	37	e101	['doubling']	0	1
+34	e98	['visit']	38	e102	['fell']	0	4
+34	e98	['visit']	39	e105	['signed']	0	4
+34	e98	['visit']	40	e106	['calls']	0	4
+15	e64	['help']	29	e87	['remain']	0	3
+33	e93	['under', '##mini', '##ng']	45	e114	['coordination']	1	3
+31	e90	['developing']	48	e119	['transition']	4	4
+34	e98	['visit']	44	e113	['calls']	3	4
+34	e98	['visit']	47	e118	['imp', '##over', '##ished']	0	4
+34	e98	['visit']	49	e121	['planned']	3	4
+34	e98	['visit']	41	e107	['cooperation']	0	2
+32	e92	['claimed']	35	e158	['signing']	1	4
+33	e93	['under', '##mini', '##ng']	48	e119	['transition']	0	3
+33	e93	['under', '##mini', '##ng']	46	e116	['improvement']	1	3
+35	e158	['signing']	36	e99	['aimed']	5	4
+34	e98	['visit']	45	e114	['coordination']	1	2
+33	e93	['under', '##mini', '##ng']	50	e123	['visit']	1	3
+34	e98	['visit']	50	e123	['visit']	1	1
+35	e158	['signing']	37	e101	['doubling']	2	1
+34	e98	['visit']	35	e158	['signing']	0	4
+35	e158	['signing']	38	e102	['fell']	4	4
+35	e158	['signing']	39	e105	['signed']	0	4
+34	e98	['visit']	43	e112	['said']	3	5
+35	e158	['signing']	40	e106	['calls']	5	4
+30	e89	['called']	36	e99	['aimed']	5	4
+31	e90	['developing']	47	e118	['imp', '##over', '##ished']	4	4
+30	e89	['called']	38	e102	['fell']	4	4
+31	e90	['developing']	46	e116	['improvement']	0	4
+34	e98	['visit']	46	e116	['improvement']	1	4
+35	e158	['signing']	44	e113	['calls']	5	4
+35	e158	['signing']	42	e111	['manufacturing']	2	4
+35	e158	['signing']	41	e107	['cooperation']	0	4
+35	e158	['signing']	46	e116	['improvement']	2	4
+35	e158	['signing']	47	e118	['imp', '##over', '##ished']	4	4
+35	e158	['signing']	49	e121	['planned']	5	4
+35	e158	['signing']	50	e123	['visit']	1	1
+30	e89	['called']	33	e93	['under', '##mini', '##ng']	4	2
+30	e89	['called']	34	e98	['visit']	2	5
+36	e99	['aimed']	37	e101	['doubling']	0	1
+35	e158	['signing']	43	e112	['said']	5	1
+22	e74	['released']	47	e118	['imp', '##over', '##ished']	4	4
+30	e89	['called']	37	e101	['doubling']	2	1
+33	e93	['under', '##mini', '##ng']	47	e118	['imp', '##over', '##ished']	0	3
+35	e158	['signing']	48	e119	['transition']	4	1
+36	e99	['aimed']	40	e106	['calls']	5	1
+30	e89	['called']	47	e118	['imp', '##over', '##ished']	4	4
+36	e99	['aimed']	41	e107	['cooperation']	2	1
+30	e89	['called']	45	e114	['coordination']	2	2
+35	e158	['signing']	45	e114	['coordination']	2	4
+30	e89	['called']	39	e105	['signed']	5	4
+31	e90	['developing']	45	e114	['coordination']	0	4
+30	e89	['called']	41	e107	['cooperation']	2	2
+36	e99	['aimed']	39	e105	['signed']	5	4
+36	e99	['aimed']	38	e102	['fell']	0	4
+29	e87	['remain']	48	e119	['transition']	0	4
+30	e89	['called']	42	e111	['manufacturing']	2	2
+36	e99	['aimed']	42	e111	['manufacturing']	2	1
+36	e99	['aimed']	43	e112	['said']	5	1
+29	e87	['remain']	47	e118	['imp', '##over', '##ished']	0	4
+29	e87	['remain']	49	e121	['planned']	3	4
+30	e89	['called']	43	e112	['said']	5	5
+36	e99	['aimed']	44	e113	['calls']	5	1
+30	e89	['called']	40	e106	['calls']	5	4
+30	e89	['called']	44	e113	['calls']	5	5
+22	e74	['released']	49	e121	['planned']	5	4
+30	e89	['called']	50	e123	['visit']	1	1
+31	e90	['developing']	32	e92	['claimed']	0	4
+31	e90	['developing']	33	e93	['under', '##mini', '##ng']	0	4
+31	e90	['developing']	35	e158	['signing']	4	4
+11	e58	['called']	26	e83	['holding']	4	2
+36	e99	['aimed']	45	e114	['coordination']	2	1
+31	e90	['developing']	36	e99	['aimed']	4	4
+30	e89	['called']	46	e116	['improvement']	2	2
+31	e90	['developing']	43	e112	['said']	4	4
+31	e90	['developing']	38	e102	['fell']	4	4
+29	e87	['remain']	50	e123	['visit']	0	4
+34	e98	['visit']	42	e111	['manufacturing']	1	2
+30	e89	['called']	32	e92	['claimed']	4	5
+31	e90	['developing']	34	e98	['visit']	4	4
+31	e90	['developing']	39	e105	['signed']	4	4
+30	e89	['called']	31	e90	['developing']	0	1
+30	e89	['called']	35	e158	['signing']	5	4
+31	e90	['developing']	40	e106	['calls']	4	4
+30	e89	['called']	49	e121	['planned']	5	5
+31	e90	['developing']	41	e107	['cooperation']	0	4
+31	e90	['developing']	42	e111	['manufacturing']	0	4
+11	e58	['called']	13	e61	['saying']	0	5
+31	e90	['developing']	37	e101	['doubling']	0	4
+31	e90	['developing']	44	e113	['calls']	4	4
+39	e105	['signed']	43	e112	['said']	0	1
+39	e105	['signed']	44	e113	['calls']	5	1
+38	e102	['fell']	48	e119	['transition']	0	1
+22	e74	['released']	50	e123	['visit']	1	1
+39	e105	['signed']	45	e114	['coordination']	2	1
+39	e105	['signed']	46	e116	['improvement']	2	1
+39	e105	['signed']	42	e111	['manufacturing']	0	1
+39	e105	['signed']	40	e106	['calls']	5	1
+29	e87	['remain']	46	e116	['improvement']	0	4
+36	e99	['aimed']	46	e116	['improvement']	2	1
+39	e105	['signed']	41	e107	['cooperation']	2	1
+39	e105	['signed']	47	e118	['imp', '##over', '##ished']	4	1
+39	e105	['signed']	48	e119	['transition']	4	1
+39	e105	['signed']	49	e121	['planned']	5	1
+36	e99	['aimed']	48	e119	['transition']	4	1
+39	e105	['signed']	50	e123	['visit']	1	1
+36	e99	['aimed']	50	e123	['visit']	1	1
+11	e58	['called']	16	e65	['assured']	5	5
+29	e87	['remain']	45	e114	['coordination']	0	4
+30	e89	['called']	48	e119	['transition']	4	2
+40	e106	['calls']	43	e112	['said']	5	5
+36	e99	['aimed']	47	e118	['imp', '##over', '##ished']	4	1
+40	e106	['calls']	45	e114	['coordination']	2	2
+40	e106	['calls']	46	e116	['improvement']	2	1
+40	e106	['calls']	50	e123	['visit']	1	1
+36	e99	['aimed']	49	e121	['planned']	5	1
+41	e107	['cooperation']	43	e112	['said']	0	3
+40	e106	['calls']	48	e119	['transition']	4	1
+22	e74	['released']	46	e116	['improvement']	2	4
+38	e102	['fell']	50	e123	['visit']	1	1
+11	e58	['called']	14	e62	['create']	1	1
+40	e106	['calls']	47	e118	['imp', '##over', '##ished']	4	4
+38	e102	['fell']	49	e121	['planned']	1	1
+11	e58	['called']	21	e72	['expansion']	2	2
+40	e106	['calls']	41	e107	['cooperation']	2	2
+40	e106	['calls']	42	e111	['manufacturing']	2	2
+11	e58	['called']	17	e66	['join']	1	1
+41	e107	['cooperation']	42	e111	['manufacturing']	0	3
+41	e107	['cooperation']	44	e113	['calls']	3	3
+41	e107	['cooperation']	49	e121	['planned']	3	3
+42	e111	['manufacturing']	43	e112	['said']	0	3
+34	e98	['visit']	48	e119	['transition']	0	2
+37	e101	['doubling']	38	e102	['fell']	0	4
+41	e107	['cooperation']	45	e114	['coordination']	0	3
+40	e106	['calls']	44	e113	['calls']	5	4
+41	e107	['cooperation']	47	e118	['imp', '##over', '##ished']	4	4
+42	e111	['manufacturing']	49	e121	['planned']	3	3
+43	e112	['said']	47	e118	['imp', '##over', '##ished']	0	4
+43	e112	['said']	44	e113	['calls']	0	4
+42	e111	['manufacturing']	47	e118	['imp', '##over', '##ished']	0	4
+42	e111	['manufacturing']	48	e119	['transition']	0	1
+42	e111	['manufacturing']	50	e123	['visit']	0	1
+41	e107	['cooperation']	48	e119	['transition']	4	1
+37	e101	['doubling']	39	e105	['signed']	3	4
+43	e112	['said']	48	e119	['transition']	4	2
+43	e112	['said']	45	e114	['coordination']	0	2
+43	e112	['said']	50	e123	['visit']	1	1
+40	e106	['calls']	49	e121	['planned']	5	5
+42	e111	['manufacturing']	44	e113	['calls']	0	3
+41	e107	['cooperation']	50	e123	['visit']	0	1
+44	e113	['calls']	46	e116	['improvement']	0	1
+37	e101	['doubling']	40	e106	['calls']	3	4
+22	e74	['released']	48	e119	['transition']	4	2
+37	e101	['doubling']	41	e107	['cooperation']	0	4
+42	e111	['manufacturing']	46	e116	['improvement']	0	3
+44	e113	['calls']	47	e118	['imp', '##over', '##ished']	4	4
+23	e75	['pledged']	27	e84	['exercises']	0	2
+44	e113	['calls']	48	e119	['transition']	4	1
+23	e75	['pledged']	25	e82	['ass', '##ailed']	4	5
+10	e56	['talks']	50	e123	['visit']	1	1
+41	e107	['cooperation']	46	e116	['improvement']	0	4
+44	e113	['calls']	45	e114	['coordination']	0	2
+44	e113	['calls']	50	e123	['visit']	0	1
+45	e114	['coordination']	46	e116	['improvement']	0	4
+45	e114	['coordination']	49	e121	['planned']	0	3
+46	e116	['improvement']	47	e118	['imp', '##over', '##ished']	0	4
+46	e116	['improvement']	48	e119	['transition']	0	1
+46	e116	['improvement']	49	e121	['planned']	0	4
+46	e116	['improvement']	50	e123	['visit']	0	1
+47	e118	['imp', '##over', '##ished']	48	e119	['transition']	0	1
+47	e118	['imp', '##over', '##ished']	50	e123	['visit']	1	1
+45	e114	['coordination']	47	e118	['imp', '##over', '##ished']	0	4
+48	e119	['transition']	49	e121	['planned']	0	4
+37	e101	['doubling']	42	e111	['manufacturing']	0	4
+43	e112	['said']	46	e116	['improvement']	0	4
+45	e114	['coordination']	50	e123	['visit']	0	1
+37	e101	['doubling']	43	e112	['said']	3	4
+47	e118	['imp', '##over', '##ished']	49	e121	['planned']	1	1
+43	e112	['said']	49	e121	['planned']	5	5
+37	e101	['doubling']	44	e113	['calls']	3	4
+37	e101	['doubling']	45	e114	['coordination']	0	4
+37	e101	['doubling']	46	e116	['improvement']	0	4
+37	e101	['doubling']	47	e118	['imp', '##over', '##ished']	4	4
+38	e102	['fell']	46	e116	['improvement']	1	1
+37	e101	['doubling']	49	e121	['planned']	3	4
+38	e102	['fell']	40	e106	['calls']	0	1
+37	e101	['doubling']	48	e119	['transition']	4	4
+38	e102	['fell']	42	e111	['manufacturing']	1	1
+38	e102	['fell']	41	e107	['cooperation']	0	1
+38	e102	['fell']	44	e113	['calls']	1	1
+45	e114	['coordination']	48	e119	['transition']	0	1
+11	e58	['called']	35	e158	['signing']	5	4
+38	e102	['fell']	43	e112	['said']	1	1
+37	e101	['doubling']	50	e123	['visit']	0	4
+38	e102	['fell']	45	e114	['coordination']	1	1
+24	e77	['consult']	44	e113	['calls']	4	4
+11	e58	['called']	20	e71	['opposed']	2	2
+23	e75	['pledged']	28	e86	['said']	5	5
+38	e102	['fell']	39	e105	['signed']	1	4
+24	e77	['consult']	33	e93	['under', '##mini', '##ng']	4	4
+23	e75	['pledged']	38	e102	['fell']	4	4
+38	e102	['fell']	47	e118	['imp', '##over', '##ished']	0	1
+24	e77	['consult']	32	e92	['claimed']	4	4
+24	e77	['consult']	35	e158	['signing']	4	4
+23	e75	['pledged']	39	e105	['signed']	5	4
+24	e77	['consult']	42	e111	['manufacturing']	0	4
+24	e77	['consult']	36	e99	['aimed']	4	4
+23	e75	['pledged']	33	e93	['under', '##mini', '##ng']	4	2
+24	e77	['consult']	46	e116	['improvement']	0	4
+24	e77	['consult']	38	e102	['fell']	4	4
+24	e77	['consult']	39	e105	['signed']	4	4
+23	e75	['pledged']	47	e118	['imp', '##over', '##ished']	4	4
+24	e77	['consult']	40	e106	['calls']	4	4
+23	e75	['pledged']	43	e112	['said']	5	5
+42	e111	['manufacturing']	45	e114	['coordination']	0	1
+10	e56	['talks']	48	e119	['transition']	4	1
+23	e75	['pledged']	50	e123	['visit']	1	1
+24	e77	['consult']	41	e107	['cooperation']	0	4
+23	e75	['pledged']	48	e119	['transition']	4	1
+24	e77	['consult']	45	e114	['coordination']	0	4
+24	e77	['consult']	47	e118	['imp', '##over', '##ished']	4	4
+24	e77	['consult']	49	e121	['planned']	4	4
+23	e75	['pledged']	44	e113	['calls']	5	5
+23	e75	['pledged']	37	e101	['doubling']	2	1
+24	e77	['consult']	48	e119	['transition']	4	4
+44	e113	['calls']	49	e121	['planned']	0	5
+24	e77	['consult']	34	e98	['visit']	4	4
+10	e56	['talks']	37	e101	['doubling']	2	1
+25	e82	['ass', '##ailed']	27	e84	['exercises']	0	2
+23	e75	['pledged']	45	e114	['coordination']	2	2
+24	e77	['consult']	27	e84	['exercises']	0	2
+25	e82	['ass', '##ailed']	29	e87	['remain']	0	1
+25	e82	['ass', '##ailed']	28	e86	['said']	1	5
+25	e82	['ass', '##ailed']	30	e89	['called']	1	5
+25	e82	['ass', '##ailed']	33	e93	['under', '##mini', '##ng']	0	2
+25	e82	['ass', '##ailed']	36	e99	['aimed']	1	4
+25	e82	['ass', '##ailed']	31	e90	['developing']	1	1
+25	e82	['ass', '##ailed']	32	e92	['claimed']	0	5
+24	e77	['consult']	43	e112	['said']	4	4
+23	e75	['pledged']	49	e121	['planned']	5	5
+25	e82	['ass', '##ailed']	37	e101	['doubling']	1	1
+23	e75	['pledged']	29	e87	['remain']	2	1
+25	e82	['ass', '##ailed']	38	e102	['fell']	2	4
+25	e82	['ass', '##ailed']	39	e105	['signed']	1	4
+25	e82	['ass', '##ailed']	40	e106	['calls']	1	4
+25	e82	['ass', '##ailed']	43	e112	['said']	1	5
+10	e56	['talks']	34	e98	['visit']	2	1
+25	e82	['ass', '##ailed']	47	e118	['imp', '##over', '##ished']	0	4
+24	e77	['consult']	30	e89	['called']	4	4
+25	e82	['ass', '##ailed']	44	e113	['calls']	1	4
+25	e82	['ass', '##ailed']	41	e107	['cooperation']	1	2
+10	e56	['talks']	31	e90	['developing']	1	1
+10	e56	['talks']	46	e116	['improvement']	2	1
+25	e82	['ass', '##ailed']	48	e119	['transition']	0	1
+23	e75	['pledged']	30	e89	['called']	5	5
+24	e77	['consult']	50	e123	['visit']	0	3
+25	e82	['ass', '##ailed']	50	e123	['visit']	1	1
+26	e83	['holding']	35	e158	['signing']	1	4
+26	e83	['holding']	33	e93	['under', '##mini', '##ng']	0	4
+25	e82	['ass', '##ailed']	49	e121	['planned']	1	5
+25	e82	['ass', '##ailed']	42	e111	['manufacturing']	1	2
+26	e83	['holding']	36	e99	['aimed']	1	4
+23	e75	['pledged']	31	e90	['developing']	1	1
+24	e77	['consult']	28	e86	['said']	4	4
+25	e82	['ass', '##ailed']	34	e98	['visit']	1	5
+25	e82	['ass', '##ailed']	46	e116	['improvement']	1	4
+26	e83	['holding']	38	e102	['fell']	2	4
+24	e77	['consult']	26	e83	['holding']	0	4
+25	e82	['ass', '##ailed']	35	e158	['signing']	1	4
+23	e75	['pledged']	32	e92	['claimed']	4	5
+23	e75	['pledged']	34	e98	['visit']	2	5
+23	e75	['pledged']	40	e106	['calls']	5	4
+26	e83	['holding']	37	e101	['doubling']	1	1
+26	e83	['holding']	34	e98	['visit']	1	3
+26	e83	['holding']	28	e86	['said']	0	3
+26	e83	['holding']	27	e84	['exercises']	0	2
+24	e77	['consult']	25	e82	['ass', '##ailed']	4	4
+23	e75	['pledged']	36	e99	['aimed']	5	4
+23	e75	['pledged']	24	e77	['consult']	0	1
+10	e56	['talks']	45	e114	['coordination']	2	1
+28	e86	['said']	50	e123	['visit']	1	1
+26	e83	['holding']	30	e89	['called']	1	3
+26	e83	['holding']	39	e105	['signed']	1	4
+28	e86	['said']	41	e107	['cooperation']	2	2
+26	e83	['holding']	40	e106	['calls']	1	4
+28	e86	['said']	36	e99	['aimed']	5	4
+26	e83	['holding']	32	e92	['claimed']	0	4
+23	e75	['pledged']	35	e158	['signing']	5	1
+23	e75	['pledged']	41	e107	['cooperation']	2	2
+28	e86	['said']	38	e102	['fell']	4	4
+23	e75	['pledged']	42	e111	['manufacturing']	2	2
+29	e87	['remain']	34	e98	['visit']	0	4
+26	e83	['holding']	42	e111	['manufacturing']	1	4
+24	e77	['consult']	29	e87	['remain']	0	3
+26	e83	['holding']	41	e107	['cooperation']	1	4
+25	e82	['ass', '##ailed']	26	e83	['holding']	0	2
+26	e83	['holding']	44	e113	['calls']	1	4
+28	e86	['said']	32	e92	['claimed']	4	5
+24	e77	['consult']	31	e90	['developing']	0	3
+29	e87	['remain']	32	e92	['claimed']	0	4
+28	e86	['said']	39	e105	['signed']	5	4
+28	e86	['said']	40	e106	['calls']	5	4
+28	e86	['said']	48	e119	['transition']	4	1
+26	e83	['holding']	46	e116	['improvement']	1	4
+26	e83	['holding']	47	e118	['imp', '##over', '##ished']	0	4
+26	e83	['holding']	45	e114	['coordination']	1	4
+25	e82	['ass', '##ailed']	45	e114	['coordination']	1	2
+28	e86	['said']	43	e112	['said']	5	5
+29	e87	['remain']	44	e113	['calls']	3	4
+29	e87	['remain']	30	e89	['called']	0	4
+23	e75	['pledged']	26	e83	['holding']	4	2
+28	e86	['said']	47	e118	['imp', '##over', '##ished']	4	4
+29	e87	['remain']	33	e93	['under', '##mini', '##ng']	0	4
+26	e83	['holding']	50	e123	['visit']	1	1
+23	e75	['pledged']	46	e116	['improvement']	2	4
+26	e83	['holding']	48	e119	['transition']	0	4
+29	e87	['remain']	35	e158	['signing']	3	4
+27	e84	['exercises']	28	e86	['said']	0	3
+27	e84	['exercises']	29	e87	['remain']	0	3
+29	e87	['remain']	36	e99	['aimed']	3	4
+29	e87	['remain']	31	e90	['developing']	0	4
+28	e86	['said']	49	e121	['planned']	5	5
+26	e83	['holding']	31	e90	['developing']	1	3
+29	e87	['remain']	38	e102	['fell']	0	4
+29	e87	['remain']	37	e101	['doubling']	0	4
+29	e87	['remain']	39	e105	['signed']	3	4
+29	e87	['remain']	40	e106	['calls']	3	4
+10	e56	['talks']	47	e118	['imp', '##over', '##ished']	4	4
+29	e87	['remain']	41	e107	['cooperation']	0	4
+29	e87	['remain']	42	e111	['manufacturing']	0	4
+28	e86	['said']	44	e113	['calls']	5	4
+26	e83	['holding']	49	e121	['planned']	1	4
+29	e87	['remain']	43	e112	['said']	3	4
+27	e84	['exercises']	30	e89	['called']	1	3
+27	e84	['exercises']	31	e90	['developing']	1	3
+27	e84	['exercises']	32	e92	['claimed']	0	3
+28	e86	['said']	37	e101	['doubling']	2	1
+27	e84	['exercises']	33	e93	['under', '##mini', '##ng']	0	3
+27	e84	['exercises']	34	e98	['visit']	1	3
+28	e86	['said']	33	e93	['under', '##mini', '##ng']	4	2
+27	e84	['exercises']	37	e101	['doubling']	1	3
+27	e84	['exercises']	47	e118	['imp', '##over', '##ished']	0	4
+27	e84	['exercises']	36	e99	['aimed']	1	4
+27	e84	['exercises']	38	e102	['fell']	2	4
+10	e56	['talks']	39	e105	['signed']	5	4
+27	e84	['exercises']	39	e105	['signed']	1	4
+24	e77	['consult']	37	e101	['doubling']	0	3
+27	e84	['exercises']	40	e106	['calls']	1	3
+27	e84	['exercises']	43	e112	['said']	1	3
+27	e84	['exercises']	41	e107	['cooperation']	1	3
+26	e83	['holding']	43	e112	['said']	1	3
+27	e84	['exercises']	42	e111	['manufacturing']	1	4
+28	e86	['said']	29	e87	['remain']	2	1
+28	e86	['said']	30	e89	['called']	5	5
+10	e56	['talks']	38	e102	['fell']	4	4
+28	e86	['said']	34	e98	['visit']	2	5
+27	e84	['exercises']	45	e114	['coordination']	1	3
+49	e121	['planned']	50	e123	['visit']	1	1
+10	e56	['talks']	35	e158	['signing']	5	1
+28	e86	['said']	42	e111	['manufacturing']	2	2
+11	e58	['called']	15	e64	['help']	0	2
+28	e86	['said']	45	e114	['coordination']	2	2
+28	e86	['said']	46	e116	['improvement']	2	4
+28	e86	['said']	31	e90	['developing']	1	1
+5	e46	['trying']	10	e56	['talks']	3	3
+4	e45	['rat', '##ification']	31	e90	['developing']	0	1
+26	e83	['holding']	29	e87	['remain']	0	3
+27	e84	['exercises']	49	e121	['planned']	1	3
+28	e86	['said']	35	e158	['signing']	5	4
+6	e48	['tie']	43	e112	['said']	3	4
+7	e50	['permit']	18	e69	['said']	4	4
+27	e84	['exercises']	35	e158	['signing']	1	4
+6	e48	['tie']	16	e65	['assured']	3	4
+7	e50	['permit']	8	e53	['use']	0	4
+6	e48	['tie']	28	e86	['said']	3	4
+4	e45	['rat', '##ification']	20	e71	['opposed']	0	4
+4	e45	['rat', '##ification']	40	e106	['calls']	3	4
+27	e84	['exercises']	48	e119	['transition']	0	3
+6	e48	['tie']	44	e113	['calls']	3	4
+7	e50	['permit']	42	e111	['manufacturing']	0	4
+27	e84	['exercises']	44	e113	['calls']	1	3
+6	e48	['tie']	39	e105	['signed']	3	4
+7	e50	['permit']	15	e64	['help']	0	4
+6	e48	['tie']	38	e102	['fell']	0	4
+27	e84	['exercises']	50	e123	['visit']	1	3
+4	e45	['rat', '##ification']	26	e83	['holding']	0	1
+6	e48	['tie']	30	e89	['called']	3	4
+6	e48	['tie']	40	e106	['calls']	3	4
+5	e46	['trying']	8	e53	['use']	0	1
+4	e45	['rat', '##ification']	17	e66	['join']	0	1
+4	e45	['rat', '##ification']	10	e56	['talks']	3	4
+2	e43	['ratified']	29	e87	['remain']	0	1
+1	e41	['signed']	13	e61	['saying']	1	1
+4	e45	['rat', '##ification']	43	e112	['said']	3	3
+4	e45	['rat', '##ification']	47	e118	['imp', '##over', '##ished']	0	4
+4	e45	['rat', '##ification']	36	e99	['aimed']	3	4
+5	e46	['trying']	9	e55	['issued']	3	3
+27	e84	['exercises']	46	e116	['improvement']	1	4
+4	e45	['rat', '##ification']	12	e59	['rat', '##ification']	0	1
+4	e45	['rat', '##ification']	39	e105	['signed']	3	4
+5	e46	['trying']	14	e62	['create']	0	1
+4	e45	['rat', '##ification']	14	e62	['create']	0	1
+5	e46	['trying']	13	e61	['saying']	3	3
+5	e46	['trying']	16	e65	['assured']	3	3
+4	e45	['rat', '##ification']	49	e121	['planned']	3	4
+5	e46	['trying']	6	e48	['tie']	0	1
+4	e45	['rat', '##ification']	37	e101	['doubling']	0	1
+4	e45	['rat', '##ification']	38	e102	['fell']	0	4
+5	e46	['trying']	7	e50	['permit']	0	1
+6	e48	['tie']	46	e116	['improvement']	0	4
+4	e45	['rat', '##ification']	44	e113	['calls']	3	4
+7	e50	['permit']	30	e89	['called']	4	4
+6	e48	['tie']	34	e98	['visit']	3	4
+8	e53	['use']	16	e65	['assured']	3	4
+1	e41	['signed']	10	e56	['talks']	1	1
+4	e45	['rat', '##ification']	50	e123	['visit']	0	1
+7	e50	['permit']	24	e77	['consult']	0	4
+4	e45	['rat', '##ification']	45	e114	['coordination']	0	4
+3	e44	['stalled']	41	e107	['cooperation']	0	1
+4	e45	['rat', '##ification']	46	e116	['improvement']	0	4
+1	e41	['signed']	32	e92	['claimed']	0	1
+4	e45	['rat', '##ification']	21	e72	['expansion']	0	2
+4	e45	['rat', '##ification']	27	e84	['exercises']	0	2
+1	e41	['signed']	45	e114	['coordination']	1	1
+4	e45	['rat', '##ification']	48	e119	['transition']	0	1
+5	e46	['trying']	11	e58	['called']	3	3
+5	e46	['trying']	12	e59	['rat', '##ification']	0	1
+2	e43	['ratified']	17	e66	['join']	1	1
+5	e46	['trying']	23	e75	['pledged']	3	3
+3	e44	['stalled']	48	e119	['transition']	0	1
+5	e46	['trying']	24	e77	['consult']	0	1
+6	e48	['tie']	36	e99	['aimed']	3	4
+6	e48	['tie']	20	e71	['opposed']	0	4
+5	e46	['trying']	17	e66	['join']	0	1
+2	e43	['ratified']	35	e158	['signing']	1	4
+4	e45	['rat', '##ification']	24	e77	['consult']	0	1
+1	e41	['signed']	6	e48	['tie']	0	1
+7	e50	['permit']	28	e86	['said']	4	4
+9	e55	['issued']	50	e123	['visit']	1	1
+4	e45	['rat', '##ification']	29	e87	['remain']	0	1
+7	e50	['permit']	34	e98	['visit']	4	4
+5	e46	['trying']	18	e69	['said']	3	3
+5	e46	['trying']	15	e64	['help']	0	1
+4	e45	['rat', '##ification']	41	e107	['cooperation']	0	4
+1	e41	['signed']	9	e55	['issued']	1	1
+5	e46	['trying']	30	e89	['called']	3	3
+4	e45	['rat', '##ification']	33	e93	['under', '##mini', '##ng']	0	4
+6	e48	['tie']	41	e107	['cooperation']	0	4
+6	e48	['tie']	37	e101	['doubling']	0	1
+4	e45	['rat', '##ification']	7	e50	['permit']	0	1
+5	e46	['trying']	19	e156	['according']	3	3
+1	e41	['signed']	15	e64	['help']	1	1
+6	e48	['tie']	35	e158	['signing']	3	4
+7	e50	['permit']	16	e65	['assured']	4	4
+5	e46	['trying']	21	e72	['expansion']	0	2
+7	e50	['permit']	38	e102	['fell']	4	4
+7	e50	['permit']	25	e82	['ass', '##ailed']	4	4
+5	e46	['trying']	25	e82	['ass', '##ailed']	0	3
+4	e45	['rat', '##ification']	35	e158	['signing']	3	4
+4	e45	['rat', '##ification']	19	e156	['according']	3	3
+10	e56	['talks']	49	e121	['planned']	5	5
+4	e45	['rat', '##ification']	32	e92	['claimed']	0	3
+9	e55	['issued']	32	e92	['claimed']	4	5
+5	e46	['trying']	27	e84	['exercises']	0	2
+4	e45	['rat', '##ification']	42	e111	['manufacturing']	0	4
+10	e56	['talks']	11	e58	['called']	5	1
+5	e46	['trying']	20	e71	['opposed']	0	3
+2	e43	['ratified']	12	e59	['rat', '##ification']	1	1
+5	e46	['trying']	22	e74	['released']	3	3
+2	e43	['ratified']	15	e64	['help']	1	1
+6	e48	['tie']	19	e156	['according']	3	4
+5	e46	['trying']	28	e86	['said']	3	3
+10	e56	['talks']	26	e83	['holding']	4	1
+10	e56	['talks']	24	e77	['consult']	1	1
+5	e46	['trying']	29	e87	['remain']	0	1
+5	e46	['trying']	26	e83	['holding']	0	1
+4	e45	['rat', '##ification']	23	e75	['pledged']	3	3
+5	e46	['trying']	31	e90	['developing']	0	1
+10	e56	['talks']	41	e107	['cooperation']	2	1
+1	e41	['signed']	14	e62	['create']	1	1
+10	e56	['talks']	14	e62	['create']	0	1
+5	e46	['trying']	32	e92	['claimed']	0	3
+5	e46	['trying']	43	e112	['said']	3	3
+6	e48	['tie']	42	e111	['manufacturing']	0	4
+3	e44	['stalled']	26	e83	['holding']	0	1
+10	e56	['talks']	36	e99	['aimed']	5	4
+2	e43	['ratified']	30	e89	['called']	1	4
+7	e50	['permit']	11	e58	['called']	0	4
+10	e56	['talks']	42	e111	['manufacturing']	2	1
+0	e37	['dispute']	48	e119	['transition']	0	1
+7	e50	['permit']	33	e93	['under', '##mini', '##ng']	4	4
+3	e44	['stalled']	8	e53	['use']	0	1
+5	e46	['trying']	34	e98	['visit']	3	3
+3	e44	['stalled']	31	e90	['developing']	0	1
+4	e45	['rat', '##ification']	15	e64	['help']	0	1
+4	e45	['rat', '##ification']	30	e89	['called']	3	3
+6	e48	['tie']	50	e123	['visit']	0	1
+4	e45	['rat', '##ification']	22	e74	['released']	3	3
+4	e45	['rat', '##ification']	18	e69	['said']	3	3
+5	e46	['trying']	35	e158	['signing']	3	3
+2	e43	['ratified']	8	e53	['use']	0	1
+2	e43	['ratified']	25	e82	['ass', '##ailed']	0	4
+5	e46	['trying']	37	e101	['doubling']	0	1
+5	e46	['trying']	36	e99	['aimed']	3	4
+7	e50	['permit']	12	e59	['rat', '##ification']	0	4
+10	e56	['talks']	44	e113	['calls']	5	1
+7	e50	['permit']	9	e55	['issued']	0	4
+5	e46	['trying']	38	e102	['fell']	0	4
+6	e48	['tie']	18	e69	['said']	3	4
+2	e43	['ratified']	10	e56	['talks']	1	4
+6	e48	['tie']	23	e75	['pledged']	3	4
+1	e41	['signed']	8	e53	['use']	0	1
+6	e48	['tie']	25	e82	['ass', '##ailed']	0	4
+5	e46	['trying']	39	e105	['signed']	3	4
+6	e48	['tie']	47	e118	['imp', '##over', '##ished']	0	4
+3	e44	['stalled']	37	e101	['doubling']	0	1
+2	e43	['ratified']	16	e65	['assured']	1	4
+2	e43	['ratified']	24	e77	['consult']	1	1
+4	e45	['rat', '##ification']	34	e98	['visit']	3	3
+3	e44	['stalled']	39	e105	['signed']	3	4
+4	e45	['rat', '##ification']	13	e61	['saying']	3	3
+3	e44	['stalled']	15	e64	['help']	0	1
+10	e56	['talks']	12	e59	['rat', '##ification']	1	1
+3	e44	['stalled']	28	e86	['said']	3	3
+3	e44	['stalled']	17	e66	['join']	0	1
+3	e44	['stalled']	25	e82	['ass', '##ailed']	0	3
+9	e55	['issued']	16	e65	['assured']	0	5
+5	e46	['trying']	41	e107	['cooperation']	0	1
+6	e48	['tie']	22	e74	['released']	3	4
+3	e44	['stalled']	47	e118	['imp', '##over', '##ished']	0	4
+1	e41	['signed']	43	e112	['said']	1	1
+1	e41	['signed']	50	e123	['visit']	1	1
+3	e44	['stalled']	38	e102	['fell']	0	4
+7	e50	['permit']	50	e123	['visit']	0	1
+5	e46	['trying']	40	e106	['calls']	3	3
+3	e44	['stalled']	45	e114	['coordination']	0	1
+1	e41	['signed']	11	e58	['called']	1	1
+6	e48	['tie']	48	e119	['transition']	0	1
+10	e56	['talks']	27	e84	['exercises']	4	2
+7	e50	['permit']	22	e74	['released']	4	4
+2	e43	['ratified']	34	e98	['visit']	0	4
+6	e48	['tie']	13	e61	['saying']	0	4
+7	e50	['permit']	13	e61	['saying']	0	4
+9	e55	['issued']	45	e114	['coordination']	2	1
+7	e50	['permit']	20	e71	['opposed']	0	4
+1	e41	['signed']	7	e50	['permit']	1	1
+2	e43	['ratified']	23	e75	['pledged']	1	4
+1	e41	['signed']	41	e107	['cooperation']	1	1
+7	e50	['permit']	23	e75	['pledged']	4	4
+8	e53	['use']	19	e156	['according']	3	4
+5	e46	['trying']	45	e114	['coordination']	0	1
+10	e56	['talks']	17	e66	['join']	1	1
+2	e43	['ratified']	9	e55	['issued']	1	4
+2	e43	['ratified']	7	e50	['permit']	1	1
+3	e44	['stalled']	42	e111	['manufacturing']	0	1
+6	e48	['tie']	32	e92	['claimed']	0	4
+10	e56	['talks']	29	e87	['remain']	2	1
+3	e44	['stalled']	50	e123	['visit']	0	1
+4	e45	['rat', '##ification']	6	e48	['tie']	0	1
+6	e48	['tie']	45	e114	['coordination']	0	1
+3	e44	['stalled']	29	e87	['remain']	0	1
+3	e44	['stalled']	24	e77	['consult']	0	1
+4	e45	['rat', '##ification']	16	e65	['assured']	3	3
+7	e50	['permit']	14	e62	['create']	0	4
+4	e45	['rat', '##ification']	25	e82	['ass', '##ailed']	0	3
+4	e45	['rat', '##ification']	28	e86	['said']	3	3
+10	e56	['talks']	43	e112	['said']	5	5
+3	e44	['stalled']	30	e89	['called']	3	3
+7	e50	['permit']	17	e66	['join']	0	4
+7	e50	['permit']	44	e113	['calls']	4	4
+3	e44	['stalled']	36	e99	['aimed']	3	4
+10	e56	['talks']	18	e69	['said']	5	1
+2	e43	['ratified']	6	e48	['tie']	0	1
+4	e45	['rat', '##ification']	8	e53	['use']	0	1
+1	e41	['signed']	48	e119	['transition']	0	1
+1	e41	['signed']	21	e72	['expansion']	0	1
+3	e44	['stalled']	40	e106	['calls']	3	4
+3	e44	['stalled']	7	e50	['permit']	0	1
+2	e43	['ratified']	28	e86	['said']	1	4
+3	e44	['stalled']	14	e62	['create']	0	1
+3	e44	['stalled']	44	e113	['calls']	3	3
+5	e46	['trying']	42	e111	['manufacturing']	0	1
+2	e43	['ratified']	27	e84	['exercises']	0	2
+3	e44	['stalled']	46	e116	['improvement']	0	4
+6	e48	['tie']	7	e50	['permit']	0	1
+1	e41	['signed']	49	e121	['planned']	1	5
+5	e46	['trying']	50	e123	['visit']	0	1
+2	e43	['ratified']	14	e62	['create']	1	1
+6	e48	['tie']	10	e56	['talks']	3	4
+2	e43	['ratified']	31	e90	['developing']	1	1
+4	e45	['rat', '##ification']	11	e58	['called']	0	3
+10	e56	['talks']	15	e64	['help']	0	1
+7	e50	['permit']	35	e158	['signing']	4	4
+10	e56	['talks']	32	e92	['claimed']	4	5
+3	e44	['stalled']	12	e59	['rat', '##ification']	0	1
+2	e43	['ratified']	5	e46	['trying']	0	4
+3	e44	['stalled']	23	e75	['pledged']	3	3
+10	e56	['talks']	21	e72	['expansion']	2	2
+0	e37	['dispute']	47	e118	['imp', '##over', '##ished']	0	4
+3	e44	['stalled']	32	e92	['claimed']	0	3
+2	e43	['ratified']	36	e99	['aimed']	1	4
+3	e44	['stalled']	34	e98	['visit']	3	3
+2	e43	['ratified']	38	e102	['fell']	0	4
+10	e56	['talks']	23	e75	['pledged']	5	5
+2	e43	['ratified']	37	e101	['doubling']	1	1
+3	e44	['stalled']	35	e158	['signing']	3	4
+6	e48	['tie']	29	e87	['remain']	0	1
+1	e41	['signed']	31	e90	['developing']	1	1
+2	e43	['ratified']	3	e44	['stalled']	0	4
+1	e41	['signed']	5	e46	['trying']	0	1
+8	e53	['use']	10	e56	['talks']	3	4
+9	e55	['issued']	48	e119	['transition']	4	1
+6	e48	['tie']	49	e121	['planned']	3	4
+5	e46	['trying']	47	e118	['imp', '##over', '##ished']	0	4
+7	e50	['permit']	10	e56	['talks']	4	4
+3	e44	['stalled']	43	e112	['said']	3	3
+7	e50	['permit']	19	e156	['according']	4	4
+5	e46	['trying']	46	e116	['improvement']	0	3
+10	e56	['talks']	22	e74	['released']	5	1
+5	e46	['trying']	48	e119	['transition']	0	1
+7	e50	['permit']	21	e72	['expansion']	0	4
+1	e41	['signed']	16	e65	['assured']	1	1
+2	e43	['ratified']	22	e74	['released']	1	4
+6	e48	['tie']	9	e55	['issued']	3	4
+1	e41	['signed']	17	e66	['join']	1	1
+7	e50	['permit']	27	e84	['exercises']	4	2
+2	e43	['ratified']	32	e92	['claimed']	0	4
+2	e43	['ratified']	40	e106	['calls']	1	4
+6	e48	['tie']	11	e58	['called']	0	4
+6	e48	['tie']	8	e53	['use']	0	1
+7	e50	['permit']	32	e92	['claimed']	4	4
+6	e48	['tie']	27	e84	['exercises']	0	2
+1	e41	['signed']	4	e45	['rat', '##ification']	0	1
+8	e53	['use']	25	e82	['ass', '##ailed']	0	4
+6	e48	['tie']	14	e62	['create']	0	1
+10	e56	['talks']	30	e89	['called']	5	5
+9	e55	['issued']	47	e118	['imp', '##over', '##ished']	4	4
+10	e56	['talks']	40	e106	['calls']	5	5
+1	e41	['signed']	3	e44	['stalled']	0	1
+6	e48	['tie']	17	e66	['join']	0	1
+1	e41	['signed']	38	e102	['fell']	2	4
+0	e37	['dispute']	39	e105	['signed']	3	4
+6	e48	['tie']	33	e93	['under', '##mini', '##ng']	0	4
+2	e43	['ratified']	21	e72	['expansion']	0	2
+1	e41	['signed']	12	e59	['rat', '##ification']	1	1
+2	e43	['ratified']	26	e83	['holding']	0	1
+2	e43	['ratified']	11	e58	['called']	1	4
+0	e37	['dispute']	43	e112	['said']	3	5
+7	e50	['permit']	36	e99	['aimed']	4	4
+0	e37	['dispute']	32	e92	['claimed']	0	5
+6	e48	['tie']	26	e83	['holding']	0	4
+6	e48	['tie']	21	e72	['expansion']	0	4
+6	e48	['tie']	15	e64	['help']	0	4
+2	e43	['ratified']	50	e123	['visit']	1	1
+1	e41	['signed']	47	e118	['imp', '##over', '##ished']	0	4
+6	e48	['tie']	31	e90	['developing']	0	1
+0	e37	['dispute']	50	e123	['visit']	0	1
+2	e43	['ratified']	39	e105	['signed']	1	4
+7	e50	['permit']	48	e119	['transition']	4	1
+9	e55	['issued']	31	e90	['developing']	1	1
+1	e41	['signed']	2	e43	['ratified']	0	1
+2	e43	['ratified']	20	e71	['opposed']	0	4
+6	e48	['tie']	24	e77	['consult']	0	4
+4	e45	['rat', '##ification']	9	e55	['issued']	3	3
+0	e37	['dispute']	38	e102	['fell']	0	4
+2	e43	['ratified']	47	e118	['imp', '##over', '##ished']	0	4
+7	e50	['permit']	26	e83	['holding']	4	4
+7	e50	['permit']	39	e105	['signed']	4	4
+9	e55	['issued']	37	e101	['doubling']	2	1
+1	e41	['signed']	20	e71	['opposed']	0	1
+0	e37	['dispute']	27	e84	['exercises']	0	2
+1	e41	['signed']	46	e116	['improvement']	1	1
+2	e43	['ratified']	18	e69	['said']	1	4
+5	e46	['trying']	44	e113	['calls']	3	3
+2	e43	['ratified']	33	e93	['under', '##mini', '##ng']	0	4
+2	e43	['ratified']	13	e61	['saying']	1	4
+3	e44	['stalled']	27	e84	['exercises']	0	1
+9	e55	['issued']	25	e82	['ass', '##ailed']	4	5
+1	e41	['signed']	42	e111	['manufacturing']	1	1
+3	e44	['stalled']	6	e48	['tie']	0	1
+0	e37	['dispute']	37	e101	['doubling']	0	1
+7	e50	['permit']	37	e101	['doubling']	0	1
+6	e48	['tie']	12	e59	['rat', '##ification']	0	1
+7	e50	['permit']	40	e106	['calls']	4	4
+7	e50	['permit']	46	e116	['improvement']	0	4
+1	e41	['signed']	18	e69	['said']	1	1
+1	e41	['signed']	39	e105	['signed']	1	4
+0	e37	['dispute']	49	e121	['planned']	3	5
+8	e53	['use']	9	e55	['issued']	0	4
+2	e43	['ratified']	19	e156	['according']	1	4
+9	e55	['issued']	27	e84	['exercises']	4	2
+0	e37	['dispute']	45	e114	['coordination']	0	1
+1	e41	['signed']	19	e156	['according']	1	1
+2	e43	['ratified']	46	e116	['improvement']	1	4
+2	e43	['ratified']	4	e45	['rat', '##ification']	0	4
+0	e37	['dispute']	41	e107	['cooperation']	0	1
+1	e41	['signed']	22	e74	['released']	1	1
+7	e50	['permit']	29	e87	['remain']	0	4
+1	e41	['signed']	23	e75	['pledged']	1	1
+1	e41	['signed']	34	e98	['visit']	1	1
+3	e44	['stalled']	49	e121	['planned']	3	3
+7	e50	['permit']	47	e118	['imp', '##over', '##ished']	4	4
+0	e37	['dispute']	36	e99	['aimed']	3	4
+0	e37	['dispute']	2	e43	['ratified']	0	1
+4	e45	['rat', '##ification']	5	e46	['trying']	0	4
+2	e43	['ratified']	44	e113	['calls']	1	4
+0	e37	['dispute']	35	e158	['signing']	3	4
+2	e43	['ratified']	48	e119	['transition']	0	1
+1	e41	['signed']	25	e82	['ass', '##ailed']	0	1
+9	e55	['issued']	38	e102	['fell']	4	4
+8	e53	['use']	11	e58	['called']	0	4
+5	e46	['trying']	49	e121	['planned']	3	3
+0	e37	['dispute']	44	e113	['calls']	3	5
+2	e43	['ratified']	45	e114	['coordination']	1	1
+0	e37	['dispute']	42	e111	['manufacturing']	0	1
+3	e44	['stalled']	4	e45	['rat', '##ification']	0	1
+3	e44	['stalled']	22	e74	['released']	3	3
+8	e53	['use']	12	e59	['rat', '##ification']	0	4
+0	e37	['dispute']	40	e106	['calls']	3	5
+7	e50	['permit']	41	e107	['cooperation']	0	4
+1	e41	['signed']	37	e101	['doubling']	1	1
+8	e53	['use']	15	e64	['help']	0	4
+3	e44	['stalled']	16	e65	['assured']	3	3
+0	e37	['dispute']	6	e48	['tie']	0	1
+9	e55	['issued']	39	e105	['signed']	5	4
+0	e37	['dispute']	34	e98	['visit']	3	5
+1	e41	['signed']	24	e77	['consult']	1	1
+0	e37	['dispute']	7	e50	['permit']	0	1
+0	e37	['dispute']	4	e45	['rat', '##ification']	0	2
+7	e50	['permit']	49	e121	['planned']	4	4
+9	e55	['issued']	13	e61	['saying']	0	5
+1	e41	['signed']	26	e83	['holding']	0	1
+0	e37	['dispute']	8	e53	['use']	0	1
+8	e53	['use']	13	e61	['saying']	0	4
+8	e53	['use']	14	e62	['create']	0	4
+8	e53	['use']	17	e66	['join']	0	4
+3	e44	['stalled']	21	e72	['expansion']	0	2
+1	e41	['signed']	36	e99	['aimed']	1	1
+9	e55	['issued']	28	e86	['said']	5	5
+0	e37	['dispute']	31	e90	['developing']	0	1
+8	e53	['use']	18	e69	['said']	3	4
+1	e41	['signed']	29	e87	['remain']	0	1
+0	e37	['dispute']	12	e59	['rat', '##ification']	0	1
+0	e37	['dispute']	5	e46	['trying']	0	2
+1	e41	['signed']	33	e93	['under', '##mini', '##ng']	0	1
+0	e37	['dispute']	9	e55	['issued']	3	5
+0	e37	['dispute']	33	e93	['under', '##mini', '##ng']	0	2
+0	e37	['dispute']	11	e58	['called']	3	5
+8	e53	['use']	23	e75	['pledged']	3	4
+10	e56	['talks']	33	e93	['under', '##mini', '##ng']	4	2
+3	e44	['stalled']	9	e55	['issued']	0	3
+0	e37	['dispute']	46	e116	['improvement']	0	1
+8	e53	['use']	20	e71	['opposed']	0	4
+2	e43	['ratified']	41	e107	['cooperation']	1	4
+9	e55	['issued']	43	e112	['said']	5	5
+8	e53	['use']	21	e72	['expansion']	0	4
+0	e37	['dispute']	14	e62	['create']	0	1
+1	e41	['signed']	44	e113	['calls']	1	1
+0	e37	['dispute']	28	e86	['said']	3	5
+9	e55	['issued']	36	e99	['aimed']	5	4
+0	e37	['dispute']	30	e89	['called']	3	5
+3	e44	['stalled']	18	e69	['said']	3	3
+8	e53	['use']	22	e74	['released']	3	4
+3	e44	['stalled']	13	e61	['saying']	0	3
+0	e37	['dispute']	13	e61	['saying']	3	5
+0	e37	['dispute']	15	e64	['help']	0	1
+3	e44	['stalled']	11	e58	['called']	3	3
+9	e55	['issued']	29	e87	['remain']	2	1
+9	e55	['issued']	35	e158	['signing']	5	4
+8	e53	['use']	26	e83	['holding']	0	4
+8	e53	['use']	28	e86	['said']	3	4
+9	e55	['issued']	30	e89	['called']	5	5
+0	e37	['dispute']	16	e65	['assured']	3	5
+0	e37	['dispute']	3	e44	['stalled']	0	2
+5	e46	['trying']	33	e93	['under', '##mini', '##ng']	0	2
+8	e53	['use']	27	e84	['exercises']	0	4
+0	e37	['dispute']	29	e87	['remain']	0	1
+7	e50	['permit']	43	e112	['said']	4	4
+0	e37	['dispute']	24	e77	['consult']	0	1
+3	e44	['stalled']	5	e46	['trying']	0	3
+8	e53	['use']	29	e87	['remain']	0	4
+3	e44	['stalled']	20	e71	['opposed']	0	3
+2	e43	['ratified']	42	e111	['manufacturing']	1	4
+0	e37	['dispute']	17	e66	['join']	0	1
+2	e43	['ratified']	43	e112	['said']	1	5
+7	e50	['permit']	31	e90	['developing']	0	4
+0	e37	['dispute']	21	e72	['expansion']	0	2
+1	e41	['signed']	28	e86	['said']	1	1
+1	e41	['signed']	27	e84	['exercises']	0	1
+9	e55	['issued']	33	e93	['under', '##mini', '##ng']	4	2
+0	e37	['dispute']	26	e83	['holding']	0	1
+0	e37	['dispute']	10	e56	['talks']	3	5
+1	e41	['signed']	30	e89	['called']	1	1
+0	e37	['dispute']	18	e69	['said']	3	5
+0	e37	['dispute']	19	e156	['according']	3	5
+0	e37	['dispute']	22	e74	['released']	3	5
+9	e55	['issued']	40	e106	['calls']	5	4
+0	e37	['dispute']	23	e75	['pledged']	3	5
+9	e55	['issued']	17	e66	['join']	1	1
+0	e37	['dispute']	25	e82	['ass', '##ailed']	0	5
+0	e37	['dispute']	20	e71	['opposed']	0	2
+9	e55	['issued']	34	e98	['visit']	2	5
+9	e55	['issued']	21	e72	['expansion']	2	2
+3	e44	['stalled']	33	e93	['under', '##mini', '##ng']	0	1
+9	e55	['issued']	26	e83	['holding']	4	2
+7	e50	['permit']	45	e114	['coordination']	0	4
+9	e55	['issued']	42	e111	['manufacturing']	2	1
+2	e43	['ratified']	49	e121	['planned']	1	4
+10	e56	['talks']	19	e156	['according']	0	1
+9	e55	['issued']	46	e116	['improvement']	2	4
+9	e55	['issued']	19	e156	['according']	5	5
+10	e56	['talks']	20	e71	['opposed']	2	2
+1	e41	['signed']	40	e106	['calls']	1	1
+9	e55	['issued']	44	e113	['calls']	5	5
+9	e55	['issued']	41	e107	['cooperation']	2	1
+1	e41	['signed']	35	e158	['signing']	1	1
+10	e56	['talks']	28	e86	['said']	5	1
+8	e53	['use']	38	e102	['fell']	0	4
+8	e53	['use']	24	e77	['consult']	0	4
+9	e55	['issued']	20	e71	['opposed']	2	2
+9	e55	['issued']	18	e69	['said']	0	5
+9	e55	['issued']	22	e74	['released']	5	5
+3	e44	['stalled']	10	e56	['talks']	3	3
+9	e55	['issued']	49	e121	['planned']	5	5
+8	e53	['use']	44	e113	['calls']	3	4
+8	e53	['use']	42	e111	['manufacturing']	0	4
+3	e44	['stalled']	19	e156	['according']	3	3
+8	e53	['use']	37	e101	['doubling']	0	1
+9	e55	['issued']	23	e75	['pledged']	5	5
+8	e53	['use']	45	e114	['coordination']	0	4
+8	e53	['use']	47	e118	['imp', '##over', '##ished']	0	4
+8	e53	['use']	30	e89	['called']	3	4
+8	e53	['use']	32	e92	['claimed']	0	4
+9	e55	['issued']	11	e58	['called']	5	5
+8	e53	['use']	35	e158	['signing']	3	4
+9	e55	['issued']	24	e77	['consult']	1	1
+8	e53	['use']	34	e98	['visit']	0	4
+8	e53	['use']	41	e107	['cooperation']	0	4
+9	e55	['issued']	15	e64	['help']	1	2
+9	e55	['issued']	14	e62	['create']	0	1
+8	e53	['use']	46	e116	['improvement']	0	4
+8	e53	['use']	48	e119	['transition']	0	1
+9	e55	['issued']	12	e59	['rat', '##ification']	0	1
+8	e53	['use']	40	e106	['calls']	3	4
+8	e53	['use']	31	e90	['developing']	0	4
+8	e53	['use']	50	e123	['visit']	0	1
+8	e53	['use']	39	e105	['signed']	3	4
+8	e53	['use']	36	e99	['aimed']	3	4
+8	e53	['use']	33	e93	['under', '##mini', '##ng']	0	4
+10	e56	['talks']	13	e61	['saying']	5	1
+9	e55	['issued']	10	e56	['talks']	0	4
+8	e53	['use']	49	e121	['planned']	3	4
+8	e53	['use']	43	e112	['said']	3	4
+10	e56	['talks']	25	e82	['ass', '##ailed']	4	1
+10	e56	['talks']	16	e65	['assured']	0	1
